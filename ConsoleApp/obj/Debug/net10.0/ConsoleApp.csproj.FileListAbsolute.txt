@@ -1,0 +1,14 @@
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+D:\VisualStudioCode\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
