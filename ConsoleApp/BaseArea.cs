@@ -75,12 +75,13 @@ namespace ConsoleApp
 
 
 
-    public class NormaleArea : IBaseArea
+
+    public class NormalArea : IBaseArea
     {
         public float top;
         public float button;
         public float height;
-        public NormaleArea(float top, float button, float height)
+        public NormalArea(float top, float button, float height)
         {
             this.top = top;
             this.button = button;
@@ -92,7 +93,6 @@ namespace ConsoleApp
             Console.WriteLine($"一般面積是:{area}");
         }
     }
-
 
     public class AreaFactory
     {
