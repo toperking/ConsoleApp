@@ -73,12 +73,12 @@ namespace ConsoleApp
         }
     }
 
-    public class NormalArea : IBaseArea
+    public class Norma2lArea : IBaseArea
     {
         public float top;
         public float button;
         public float height;
-        public NormalArea(float top, float button, float height)
+        public Norma2lArea(float top, float button, float height)
         {
             this.top = top;
             this.button = button;
