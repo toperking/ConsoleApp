@@ -74,6 +74,42 @@ namespace ConsoleApp
     }
 
 
+    public class NormalidArea : IBaseArea
+    {
+        public float top;
+        public float button;
+        public float height;
+        public NormalidArea(float top, float button, float height)
+        {
+            this.top = top;
+            this.button = button;
+            this.height = height;
+        }
+        public void Area()
+        {
+            var area = (top + button) * height / 2;
+            Console.WriteLine($"一般面積是:{area}");
+        }
+    }
+
+    public class TestArea : IBaseArea
+    {
+        public float top;
+        public float button;
+        public float height;
+        public TestArea(float top, float button, float height)
+        {
+            this.top = top;
+            this.button = button;
+            this.height = height;
+        }
+        public void Area()
+        {
+            var area = (top + button) * height / 2;
+            Console.WriteLine($"一般面積是:{area}");
+        }
+    }
+
     public class AreaFactory
     {
         private IBaseArea areaModel = null!;
